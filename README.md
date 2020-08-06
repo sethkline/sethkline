@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Learn more backend programing with C#
 - ⚡ Fun fact: I love to garden and eat food from my garden
 
-### portfolio other work
+### portfolio and other work
 - Seth Kline Portfolio [portfolio]
 - Reverence Studios [reverencestudios]
 
