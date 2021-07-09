@@ -1,9 +1,8 @@
 ### Hi there I'm Seth 👋 
 
 ## I'm a Husband, Father, Developer and Videographer!
-- 🔭 I’m currently working on a ticketing website for [reverencestudios]
-- 🌱 I’m currently learning microservices
-- 🥅 2020 Goals: Learn more backend programing with C#
+- 🌱 I’m currently learning elixir, and D3.js
+- 🥅 2021 Goals: Learn more serverless 
 - ⚡ Fun fact: I love to garden and eat food from my garden
 
 ### portfolio and other work
