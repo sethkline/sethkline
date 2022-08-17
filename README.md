@@ -1,8 +1,8 @@
 ### Hi there I'm Seth 👋 
 
 ## I'm a Husband, Father, Developer and Videographer!
-- 🌱 I’m currently learning elixir, and D3.js
-- 🥅 2021 Goals: Learn more serverless 
+- 🌱 I’m currently learning Typescript, WebRTC and Elixir
+- 🥅 2022 Goals: Learn more serverless 
 - ⚡ Fun fact: I love to garden and eat food from my garden
 
 ### portfolio and other work
