@@ -1,8 +1,8 @@
 ### Hi there I'm Seth 👋 
 
 ## I'm a Husband, Father, Developer and Videographer!
-- 🌱 I’m currently learning Typescript, WebRTC and Elixir
-- 🥅 2022 Goals: Learn more serverless 
+- 🌱 I’m currently learning Python, Machine Learning and Azure
+- 🥅 2024 Goals: Build a machine learning model 
 - ⚡ Fun fact: I love to garden and eat food from my garden
 
 ### portfolio and other work
